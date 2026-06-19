@@ -2,6 +2,8 @@
 
 This repository provides a temporary workaround for the Razorpay namespace issue by replacing the broken online core package with a fixed local `.aar` file.
 
+### Use Latest razorpay_flutter and fluttertoast
+
 ## Step 1: Download the Fixed AAR
 
 Download `razorpay-core-fixed.aar` from this repository.
